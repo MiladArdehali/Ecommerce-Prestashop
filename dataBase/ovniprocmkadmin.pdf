@@ -1,0 +1,17 @@
+
+<!-- PMA-SQL-ERROR -->
+    <div class="error"><h1>Erreur</h1>
+<p><strong>Requête SQL : </strong>
+<a href="./url.php?url=http%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.5%2Fen%2Fselect.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help" /></a><a href="db_sql.php?sql_query=SELECT+%2A+FROM+%60ovniprocmkadmin%60.%60ps_alias%60&amp;show_query=1&amp;db=ovniprocmkadmin&amp;token=6615455921a32b2307bc2fe5bd883a1d"><span class="nowrap"><img src="themes/dot.gif" title="Modifier" alt="Modifier" class="icon ic_b_edit" /> Modifier</span></a>    </p>
+<p>
+<code class="sql"><pre>
+SELECT * FROM `ovniprocmkadmin`.`ps_alias`
+</pre></code>
+</p>
+<p>
+    <strong>MySQL a répondu: </strong><a href="./url.php?url=http%3A%2F%2Fdev.mysql.com%2Fdoc%2Frefman%2F5.5%2Fen%2Ferror-messages-server.html" target="mysql_doc"><img src="themes/dot.gif" title="Documentation" alt="Documentation" class="icon ic_b_help" /></a>
+</p>
+<code>
+#2006 - MySQL server has gone away
+</code><br />
+</div>
